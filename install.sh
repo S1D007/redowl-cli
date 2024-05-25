@@ -40,5 +40,5 @@ cd $INSTALL_DIR
 npm install
 npm i -g yarn
 (yarn unlink --global | true) && tsc && node scripts/copy-assets.js && yarn link --global
-
+chmod +x $INSTALL_DIR/dist/index.js
 echo "$APP_NAME installed successfully. You can run it using the command: $APP_NAME"
