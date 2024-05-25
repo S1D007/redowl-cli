@@ -38,7 +38,7 @@ curl -sSL https://raw.githubusercontent.com/S1D007/redowl-cli/main/install.sh | 
 1. **Clone the Repository:**
 
    ```sh
-   git clone https://github.com/your-username/redowl-cli.git
+   git clone https://github.com/S1D007/redowl-cli
    cd redowl-cli
    ```
 
