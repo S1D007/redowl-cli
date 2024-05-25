@@ -1,7 +1,3 @@
-Creating a proper README file that is informative and SEO-friendly can help improve the visibility of your project on Google. Here's a sample README for your CLI tool, "RedOwl," that aims to be comprehensive and optimized for search engines.
-
----
-
 # RedOwl CLI
 
 RedOwl CLI is a productivity tool designed to help users take regular breaks and blink their eyes to prevent eye strain. With customizable intervals and durations, RedOwl ensures you maintain healthy eye habits while working on your computer.
