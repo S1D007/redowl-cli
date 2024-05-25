@@ -51,13 +51,13 @@ curl -sSL https://raw.githubusercontent.com/S1D007/redowl-cli/main/install.sh | 
 3. **Compile TypeScript Files:**
 
    ```sh
-   pnpm build
+   pnpm run build
    ```
 
 4. **Link the CLI Globally:**
 
    ```sh
-   pnpm run link-cli
+   pnpm run local-link
    ```
 
 ## Usage
