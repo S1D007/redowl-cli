@@ -10,6 +10,9 @@ const config: Configuration = {
   },
   resolve: {
     extensions: ['.ts', '.js'],
+    fallback: {
+      os: false,
+    }
   },
   module: {
     rules: [

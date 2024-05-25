@@ -1,4 +1,3 @@
-/// <reference path="./play-sound.d.ts" />
 import path from 'path';
 import player from 'play-sound';
 
